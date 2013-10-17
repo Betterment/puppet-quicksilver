@@ -6,6 +6,6 @@
 class quicksilver {
   package { 'Quicksilver':
     provider => 'appdmg',
-    source   => 'http://cdn.qsapp.com/com.blacktree.Quicksilver__16388.dmg',
+    source   => 'http://github.qsapp.com/downloads/Quicksilver%201.1.2.dmg',
   }
 }
